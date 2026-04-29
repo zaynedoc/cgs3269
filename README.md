@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * [Control Unit OPs](#control-unit-ops)
-* [Test Hi](#test-hi)
 
 ------
 
@@ -13,5 +12,3 @@
 ![Control Unit OPs](CGS3269_Control-Unit-OPs.drawio.png)
 
 ------
-
-## Test Hi
