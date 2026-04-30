@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Control Unit OPs](#control-unit-ops)
-* [JK Flip Flops](#jk-flipflops)
+* [JK Flip Flops](#jk-flip-flops)
 
 ------
 
