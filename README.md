@@ -28,3 +28,11 @@
 #### "Give the design of a ring counter. Use five D flip/flops. Box level."
 
 ![D Flip Flops](flip-flops/CGS3269_D-FlipFlop.drawio.png)
+
+<br />
+
+#### "Give the design (at the gate level) of a D flip/flop including clock. You are not allowed to use NAND gates. "
+
+![D Flip Flops without NANDs](flip-flops/CGS3269_D-FlipFlop-noNANDs.drawio.png)
+
+------
