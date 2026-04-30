@@ -35,4 +35,10 @@
 
 ![D Flip Flops without NANDs](flip-flops/CGS3269_D-FlipFlop-noNANDs.drawio.png)
 
+<br />
+
+#### "Design the PC and MAR registers using JK flip/flops for PC and D flip/flops for MAR. Each register must be capable of storing three bits.   To move the content of PC to MAR and increment the PC, two clock ticks are necessary. Indicate what register receives the first clock tick and which one receives the second one."
+
+![Sequential Circuits](flip-flops/CGS3269_SequentialCircuits.drawio.png)
+
 ------
