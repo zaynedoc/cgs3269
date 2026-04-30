@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Control Unit OPs](#control-unit-ops)
 * [JK Flip Flops](#jk-flip-flops)
+* [D Flip Flops](#d-flip-flops)
 
 ------
 
@@ -19,3 +20,11 @@
 #### "Give a design of a counter using five JK flip/flops. Assuming the counter has the value 10101. Set up the inputs for each JK and show what the value will be after one clock tick."
 
 ![JK Flip Flops](flip-flops/CGS3269_JK-FlipFlop-Clock.drawio.png)
+
+------
+
+## D Flip Flops
+
+#### "Give the design of a ring counter. Use five D flip/flops. Box level."
+
+![D Flip Flops](flip-flops/CGS3269_D-FlipFlop.drawio.png)
